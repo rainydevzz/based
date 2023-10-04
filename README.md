@@ -17,7 +17,7 @@ If it is worth noting, I am running all of the mobile apps on a Pixel 7 with Gra
 
 [Aliucord](https://aliucord.com/) - FOSS Discord client mod for Android. Provides a robust collection of plugins and themes.
 
-[Armcord](https://armcord.app/) - FOSS Discord client avaiable for several architectures, but is built for the desktop. Features anti-tracking and the option to install a mod like Vencord for additional clients and themes.
+[Armcord](https://armcord.app/) - FOSS Discord client avaiable for several architectures, but is built for the desktop. Features anti-tracking and the option to install a mod like Vencord for additional plugins and themes.
 
 [Vencord](https://vencord.dev/) - FOSS Discord client mod for desktop. Provides a robust collection of plugins and themes.
 
