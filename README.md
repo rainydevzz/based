@@ -8,6 +8,8 @@ If it is worth noting, I am running all of the mobile apps on a Pixel 7 with Gra
 
 [Mobilism Spotify Mod](https://forum.mobilism.org/viewtopic.php?t=5135132) - ad-free Spotify mod for Android, available for multiple variants of the ARM architecture. I'm not sure if this one is FOSS, and the download links are pretty addy, but I haven't had any issues with it.
 
+[BlockTheSpot/SpotX](https://github.com/SpotX-CLI/BlockTheSpot#fully-automated-installation-via-powershell) - An ad-blocking/anti-tracking script for Spotify's Windows client (it appears they have scripts for Linux as well but I've yet to test them)
+
 [NewPipe](https://newpipe.net/) - Ad-free Youtube client for Android. FOSS and works great, good features and has options for background play which is super helpful.
 
 [Invidious](https://invidious.io/) - A self-hosted FOSS Youtube frontend, removing ads/trackers and creating a minimalist experience. I host an instance of my own but public ones are available on their website.
