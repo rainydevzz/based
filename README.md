@@ -16,6 +16,7 @@ If it is worth noting, I am running all of the mobile apps on a Pixel 7 with Gra
 
 [Jellyfin](https://jellyfin.org/) - A self-hosted FOSS media hosting service. Host it on your own machine to host videos/movies/etc like your own personal Netflix.
 
+[4get](https://4get.ca/about) - A self-hosted FOSS metasearch engine. What this means is that it proxies and scrapes from other search engines to improve privacy.
 
 ### Chat/Social Service Alternatives
 
